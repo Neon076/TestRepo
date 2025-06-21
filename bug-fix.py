@@ -5,3 +5,7 @@
 # then push push
 # doneaa
 # END
+
+# Clone kri ne dhruv e pull kariu 
+# pachi out kariu
+#  atle aavi gyu changes kari ne psuhhhhh
